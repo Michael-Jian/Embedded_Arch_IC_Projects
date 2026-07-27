@@ -1,16 +1,16 @@
 # Embedded_Arch_IC_Projects
 Embedded_Arch_IC_Projects
 ├── README.md
-└── Note├── Interal Special Project┌─── Observation┌── Observation
+└── Note├── Interal Special Project┌─── Observation┌── Observation(s)
                                    |               └── Issue
-                                   ├── Objective┌── Objective
+                                   ├── Objective┌── objective(s)
                                    |            └── Model
                                    ├── Challenge
                                    ├── Method┌── Main idea & Insight
-                                   |         ├── Method
+                                   |         ├── Method(s)
                                    |         └── Justify
                                    ├── Result┌── Analyze
                                    |         ├── Evaluate
                                    |         └── Conclusion
-                                   └── References┌── Index
-                                                 └── List
+                                   └── References┌── List
+                                                 └── Paper
