@@ -2,8 +2,8 @@
 Embedded_Arch_IC_Projects
 ├── README.md
 └── Note├── Interal Special Project ├── Observation├── Issue
-                                    ├── Objective├── Model 
-                                    |           
+                                    ├── Objective├── Goal
+                                    |            └── Model
                                     ├── Challenge
                                     ├── Mathod├── Justify
                                     |
