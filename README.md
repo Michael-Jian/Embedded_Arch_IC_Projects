@@ -3,7 +3,7 @@ Embedded_Arch_IC_Projects
 ├── README.md
 └── Note├── Interal Special Project┌─── Observation┌── Observation(s)
                                    |               └── Issue
-                                   ├── Objective┌── objective(s)
+                                   ├── Objective┌── Objective(s)
                                    |            └── Model
                                    ├── Challenge
                                    ├── Method┌── Main idea & Insight
