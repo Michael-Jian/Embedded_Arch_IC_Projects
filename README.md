@@ -1,8 +1,8 @@
 # Embedded_Arch_IC_Projects
 Embedded_Arch_IC_Projects
 ├── README.md
-└── Note├── Interal Special Project┌─── Observation┌── Observation(s)
-                                   |               └── Issue
+└── Note ── Intenal Special Project┌── Observation┌── Observation(s)
+                                   |              └── Issue
                                    ├── Objective┌── Objective(s)
                                    |            └── Model
                                    ├── Challenge
@@ -12,5 +12,5 @@ Embedded_Arch_IC_Projects
                                    ├── Result┌── Analyze
                                    |         ├── Evaluate
                                    |         └── Conclusion
-                                   └── References┌── List
-                                                 └── Paper
+                                   └── Reference┌── List
+                                                └── Paper
