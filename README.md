@@ -6,9 +6,8 @@ Embedded_Arch_IC_Projects
                                    ├── Objective┌── Objective
                                    |            └── Model
                                    ├── Challenge
-                                   ├── Method┌── Method
-                                   |         ├── Main idea
-                                   |         ├── Insight
+                                   ├── Method┌── Main idea & Insight
+                                   |         ├── Method
                                    |         └── Justify
                                    ├── Result┌── Analyze
                                    |         ├── Evaluate
